@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - deadTrigger
+  - onlyTrigger
+  - Enemy
+  - User
+  - 2ddl
+  - EndZone
+  - Home
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - NonLigthing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1125880317
+    locked: 0
+  - name: Object
+    uniqueID: 2597010159
+    locked: 0
+  - name: Player
+    uniqueID: 45850303
+    locked: 0
+  - name: Bottom
+    uniqueID: 2921977289
+    locked: 0
+  - name: Mid
+    uniqueID: 1820919349
+    locked: 0
+  - name: Top
+    uniqueID: 4253840307
+    locked: 0
