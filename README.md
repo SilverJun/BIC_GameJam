@@ -10,7 +10,7 @@ BIC:Make Play Jam 불끈불끈 열정상 수상작
 기획 및 레벨디자인 | 아이패드 + 애플팬슬
 
 ## 영상
-TBA
+[Youtube](https://youtu.be/CJrBXljWMEs)
 
 ## 개발자
 * 남동현
