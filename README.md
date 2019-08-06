@@ -9,6 +9,9 @@ BIC:Make Play Jam 불끈불끈 열정상 수상작
 협업툴 | Notion
 기획 및 레벨디자인 | 아이패드 + 애플팬슬
 
+## 영상
+TBA
+
 ## 개발자
 * 남동현
 * [장은준](https://github.com/SilverJun)
@@ -23,3 +26,12 @@ BIC:Make Play Jam 불끈불끈 열정상 수상작
 * 파티클 시스템을 사용한 파티클 제작 및 적용
 * 2D 타일맵 적용
 
+## 기획
+![menu](https://github.com/SilverJun/BIC_GameJam/blob/master/menu.PNG?raw=true)
+메인메뉴
+![stage1](https://github.com/SilverJun/BIC_GameJam/blob/master/stage1.PNG?raw=true)
+스테이지1
+![stage2](https://github.com/SilverJun/BIC_GameJam/blob/master/stage2.PNG?raw=true)
+스테이지2
+![stage3](https://github.com/SilverJun/BIC_GameJam/blob/master/stage3.PNG?raw=true)
+스테이지3
